@@ -1,0 +1,8 @@
+The SoundTouch source codes have been migrated to git. The new git repository is:
+https://gitlab.com/soundtouch/soundtouch
+
+The new git repository also contains tags for the earlier soundtouch releases, for example release v2.0.0 is available at:
+https://gitlab.com/soundtouch/soundtouch/tree/soundtouch-2.0.0
+
+This subversion repository still contains the earlier tagged soundtouch releases. The last SoundTouch version available in subversion repo is v2.0.0 at:
+https://svn.code.sf.net/p/soundtouch/code/tags/soundtouch-2.0.0
